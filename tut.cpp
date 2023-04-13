@@ -4,7 +4,7 @@ int main(){
    int a,b;
    a=3;
     b=5;
-   cout<<a+b;
+   cout<<"the sum of a and b is "<<a+b;
    //cout<<"webd";
 
     return 0;
